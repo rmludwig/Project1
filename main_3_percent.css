@@ -1,0 +1,46 @@
+/* Enter your custom CSS here */
+
+/*body*/
+body {
+    color: #666;
+    font-family: 'Lucida Grande', sans-serif;
+}
+
+/*specific elements*/
+.title {
+    font-size: 48px;
+    margin: 23px 0 14px;
+}
+.subtitle {
+    color: #f07c17;
+    font-weight: bold;
+    font-size: 24px;
+    margin: 0 0 30px;
+}
+
+.feature-box {
+    border: 1px solid #ccc;
+    margin-top: 30px;
+    padding: 34px;
+}
+
+li {
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+p {
+    line-height: 200%;
+    font-size: 16px;
+}
+/*
+Font family is 'Lucida Grande', sans-serif
+
+Font color for the main title and text is #666666, for subtitle - #F07C17
+
+The border around the box under the image should be solid 1px and its color should be#CCCCCC.
+
+You will have to find the font sizes, line spacing, margins/padding on your own.
+
+HTML/CSS Style Guide: http://goo.gl/0EVzNy
+*/

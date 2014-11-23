@@ -1,0 +1,35 @@
+/* Enter your custom CSS here */
+
+/*body*/
+body {
+    color: #666;
+    font-family: 'Lucida Grande', sans-serif;
+}
+
+/*specific elements*/
+.title {
+    font-size: 48px;
+    margin: 23px 0 14px;
+}
+.subtitle {
+    color: #f07c17;
+    font-weight: bold;
+    font-size: 24px;
+    margin: 0 0 30px;
+}
+
+.feature-box {
+    border: 1px solid #ccc;
+    margin-top: 32px;
+    padding: 40px;
+}
+
+li {
+    font-size: 16px;
+    margin: 12px 0;
+}
+
+p {
+    line-height: 200%;
+    font-size: 16px;
+}
